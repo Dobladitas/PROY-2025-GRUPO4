@@ -30,7 +30,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+> *El dispositivo posee dos funciones de las cuales podríamos considerar una universal y otra localizada. El proyecto, al tener la capacidad de detectar cuerpos solidos, se puede usar en cualquier lugar que se requiera. Por otro lado, su segunda funcionalidad está restringida a el lugar en donde se registraron previamente los puntos de acceso para identificar la posición estimada, en el caso de nuestro proyecto, de la universidad. Debido a esto no en todas partes se puede sar nuestro proyecto al 100%, pero sigue siendo posible usar al menos una función del dispositivo en cualquier sitio.*
 
 ---
 

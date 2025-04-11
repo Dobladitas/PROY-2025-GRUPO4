@@ -15,7 +15,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📝 Descripción breve del proyecto
 
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+> *Cansi tiene como objetivo mejorar la calidad de vida de personas no videntes mediante un dispositivo portátil que detecta obstáculos a través de un sensor de ultrasonido y alerta al usuario mediante vibraciones. Además, el dispositivo reconoce puntos de acceso distribuidos en salas universitarias mediante conexión Wi-Fi, permitiendo estimar la sala donde el usuario se encuentra. Todo el procesamiento se realiza mediante una Raspberry Pi Pico W, que coordina las señales del sensor, el motor de vibración y un laser ultrasonido.*
 
 ---
 

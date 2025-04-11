@@ -9,7 +9,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 | Martín Pérez | @Dobladitas| mperez@usm.cl | 202530003-6 |
 | Santiago Múnera   | @santiagomuneraa| smunera@usm.cl           | 202530024-9  |
 | Lukas Grendi | @greenkass      | llealg@usm.cl | 202530035-4 |
-| Nicolás Silva | @usuario4      | nsilvad@usm.cl | 202530026-5 |
+| Nicolás Silva | @nicojjl      | nsilvad@usm.cl | 202530026-5 |
 
 ---
 

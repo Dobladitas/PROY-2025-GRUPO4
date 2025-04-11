@@ -22,7 +22,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - El objetivo prncpal es ayudar a las personas no videntes a localizarse y facilitar su dia a dia
 - Objetivos específicos:
   - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
 

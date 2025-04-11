@@ -1,4 +1,4 @@
-# PROY-2025-GRUPOX
+# PROY-2025-GRUPO4
 
 Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
@@ -22,7 +22,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - El objetivo prncpal es ayudar a las personas no videntes a localizarse y facilitar su dia a dia
+  - El objetivo principal es ayudar a las personas no videntes a localizarse y facilitar su dia a dia
 - Objetivos específicos:
   - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
 

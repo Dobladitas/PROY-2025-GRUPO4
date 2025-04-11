@@ -6,7 +6,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol          |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Martín Pérez | @Dobladitas| mperez@usm.cl | 202530003-6 |
+| Martín Pérez      | @Dobladitas    | mperez@usm.cl            | 202530003-6 |
 | Santiago Múnera   | @santiagomuneraa| smunera@usm.cl           | 202530024-9  |
 | Lukas Grendi | @greenkass      | llealg@usm.cl | 202530035-4 |
 | Nicolás Silva | @nicojjl      | nsilvad@usm.cl | 202530026-5 |
@@ -49,7 +49,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ```
 /PROY-2025-GRUPOX
 │
-├── docs/               # Documentación general y reportes
+├── docs/              https://www.canva.com/design/DAGi8-3GgGA/qQZgIZd-xLz8BeNi-nXxKA/edit
 ├── src/                # Código fuente del proyecto
 ├── tests/              # Casos de prueba
 ├── assets/             # Imágenes, diagramas, etc.

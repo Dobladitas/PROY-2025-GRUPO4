@@ -67,7 +67,7 @@ Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 📅 Cronograma de trabajo
 
 
-[Carta Gantt](https://google.com)
+[Carta Gantt](https://docs.google.com/spreadsheets/d/1x-6Dj9K8uXK9_bMlVK5CzVprAU7yVYf6KnQrmKBqG6A/edit?usp=sharing)
 
 ---
 

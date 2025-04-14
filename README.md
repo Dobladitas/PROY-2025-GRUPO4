@@ -1,6 +1,6 @@
 # PROY-2025-GRUPO4
 
-Repositorio del grupo 4 para el proyecto del ramo *Proyecto Inicial* – 2025.
+Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 👥 Integrantes del grupo
 

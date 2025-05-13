@@ -1,8 +1,18 @@
+
+
 {
-  "F4:EA:B5:3F:5A:54": "P220",
-  "B8:7C:F2:8C:0F:54": "CIAC - Piso 1",
-  "F4:EA:B5:ED:62:14": "CIAC - Entrada",
-  "F4:EA:B5:ED:64:54": "CIAC - Piso 2",
-  "4C:23:1A:DF:57:94": "de taller (B351)",
-  "9C:1C:12:28:03:61" : "del lado del taller (Edificio B)"
+    "F4:EA:B5:C8:25:94" : "Pasillo enrtre pc10 y lab central",
+    "F4:EA:B5:3F:53:54" : "pc011",
+    "F4:EA:B5:3F:41:14" : "PC08",
+    "F4:EA:B5:3F:58:14" : "PC07",
+    "C8:67:5E:43:6F:54" : "Pasillo ascensor",
+    "C8:67:5E:E4:7D:D4" : "Lab central entre PC01 Y PC06",
+    "F4:EA:B5:3F:45:94" : "PC05",
+    "F4:EA:B5:3F:56:54" : "PC06",
+    "F4:EA:B5:3F:4C:94" : "PC02",
+    "F4:EA:B5:3F:40:D4" : "PC01",
+    "B8:7C:F2:8C:1A:94" : "PC04",
+    "F4:EA:B5:3F:AF:94" : "PC010",
+    "F4:EA:B5:A7:55:94": "PC09"
+ 
 }

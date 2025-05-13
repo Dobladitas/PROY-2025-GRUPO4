@@ -24,18 +24,21 @@ def scan_wifi():
     wlan = network.WLAN(network.STA_IF)
     wlan.active(True)
 
+    networks = wlan.scan()
     print("Escaneando redes Wi-Fi...")
-    time.sleep(1)
+    time.sleep(.5)
 
     
     try:
+        networks = wlan.scan()
+        networks = wlan.scan()
         networks = wlan.scan()
         if not networks:
             print("No se encontraron redes Wi-Fi.")
             return False
 
         # Ordenar por RSSI (intensidad de señal), de mas fuerte a mas debil. 
-        networks.sort(key=lambda net: net[3], reverse=True)
+        networks.sort(key=lambda net: net[3]*99, reverse=True)
 
         result = []
         for i, net in enumerate(networks, start=1):

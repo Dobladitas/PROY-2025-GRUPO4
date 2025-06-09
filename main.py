@@ -18,15 +18,13 @@ buzzer.duty_u16(0)
 
 #funcion para ajustar el beep del buzzer
 def buzzer_beep(distance):
-    magic_number = distance
-
     #buzzer.freq(440 + int(magic_number) * 300) #scrapped
     
     #tanto el tono como el volumen aumenta a medida que la distancia disminuye
     buzzer.duty_u16(30000)
-    time.sleep((magic_number/100)/2)
+    time.sleep((distance/100)/2)
     buzzer.duty_u16(0)
-    time.sleep((magic_number/100)/2)
+    time.sleep((distance/100)/2)
 
 #bucle principal
 while True:

@@ -4,6 +4,7 @@
 from machine import Pin
 import time
 
+# Configurar el botón en GP15, usando pull-down interno
 boton = Pin(13, Pin.IN, Pin.PULL_DOWN)
 detectandoSala = False
 botonPresionado = 0

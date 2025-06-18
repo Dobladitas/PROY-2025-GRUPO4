@@ -75,10 +75,16 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 
 ## 📚 Bibliografía
 
-[Enlace](https://google.com)
+ [MicroPython Documentation](https://docs.micropython.org/en/latest/)
+ [Programming the Raspberry Pi Pico with MicroPython](https://www.raspberrypi.com/news/new-book-programming-the-raspberry-pi-pico-with-micropython/)
+ [Ultrasonic Sensor HC-SR04 Tutorial](https://lastminuteengineers.com/hc-sr04-ultrasonic-sensor-arduino-tutorial/)
+ [Using PWM to Output Audio](https://learn.adafruit.com/playing-wav-files-with-pwm)
+ [WAV File Format Specification](https://learn.microsoft.com/en-us/windows/win32/api/mmreg/ns-mmreg-waveformat)
+ [WAV Audio on Arduino](https://hackaday.io/project/6936-wav-audio-on-arduino)
+ [ESP32 WiFi API Reference](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_wifi.html)
 
 ---
 
-## 📌 Notas adicionales
+## 📌 Como usar
 
-> *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
+> Ejecutar el archivo main.py dentro de la carpeta src

@@ -87,4 +87,4 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 
 ## 📌 Como usar
 
-> Ejecutar el archivo main.py dentro de la carpeta src
+> Ejecutar el archivo main.py dentro de la carpeta src. El proyecto no requiere librerias adicionales. El usuario puede alejar o acercar el sensor a las superficies proximas para que el buzzer suene mas rapido o lento. Si se apreta el boton, se creara una estimacion de en que sala del piso 0 del edificio P de la universidad puedes estar, y se reproducira un audio.

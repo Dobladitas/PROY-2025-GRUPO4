@@ -37,10 +37,11 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
+  - Python
 - Microcontroladores
   - Raspberry Pi Pico W 2
 - Sensores
+  - HC-SR04
 
 ---
 
@@ -49,10 +50,10 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 ```
 /PROY-2025-GRUPOX
 │
-├── docs/              https://www.canva.com/design/DAGi8-3GgGA/qQZgIZd-xLz8BeNi-nXxKA/edit
+├── docs/               # Documentos referentes (Carta gant, presentaciones hechas, etc...)
 ├── src/                # Código fuente del proyecto
 ├── tests/              # Casos de prueba
-├── assets/             # Imágenes, diagramas, etc.
+├── assets/             # Audios usados.
 └── README.md           # Este archivo
 ```
 
@@ -60,7 +61,9 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 
 ## 🧪 Metodología
 
-> *Describir la metodología de desarrollo del proyecto (ágil, en cascada, prototipado, etc.). También puedes incluir el flujo de trabajo con Git (feature branches, pull requests, etc.).*
+> Comenzamos trabajando en la funcionalidad de detectar los puntos de acceso en la universidad, posteriormente programamos la estimacion de cual podria estar mas cerca.
+> Una vez terminado esta parte del codigo, implementamos el sensor de ultra sonido (HC-SR04) para obtener las distancias de los objetos proximos, para despues combinarlo con un buzzer y hacer que suene en funcion de la distancia.
+> Finalmente implementamos un boton para poder combinar todas las partes del codigo, primero programamos la logica de como todo debia funcionar, y despues escribimos el codigo final.
 
 ---
 

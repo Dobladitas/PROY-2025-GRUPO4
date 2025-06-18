@@ -42,6 +42,12 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
   - Raspberry Pi Pico W 2
 - Sensores
   - HC-SR04
+  - Botón
+-Otros
+  - Buzzer
+  - Cable jack 3.5 (cable aux)
+  - resistencia
+  - Impresión 3D
 
 ---
 

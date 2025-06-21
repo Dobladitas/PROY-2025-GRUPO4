@@ -88,6 +88,7 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
  [WAV File Format Specification](https://learn.microsoft.com/en-us/windows/win32/api/mmreg/ns-mmreg-waveformat)
  [WAV Audio on Arduino](https://hackaday.io/project/6936-wav-audio-on-arduino)
  [ESP32 WiFi API Reference](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_wifi.html)
+ [Active buzzer with RaspberryPi Pico: step 2 - Micropython code](https://www.youtube.com/watch?v=EUAJ5Pm6pZg)
 
 ---
 

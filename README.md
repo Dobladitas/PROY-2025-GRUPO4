@@ -46,8 +46,7 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 -Otros
   - Buzzer
   - Cable jack 3.5 (cable aux)
-  - resistencia
-  - Impresión 3D
+  - Resistencias
 
 ---
 
@@ -56,11 +55,12 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 ```
 /PROY-2025-GRUPOX
 │
-├── docs/               # Documentos referentes (Carta gant, presentaciones hechas, etc...)
+├── Docs/               # Documentos referentes (Carta gant, presentaciones hechas, etc...)
 ├── src/                # Código fuente del proyecto (Incluye archivos de audio en su respectiva carpeta dentro)
 ├── tests/              # Casos de prueba
+├── Utils/              # Codigo de utilidad para procesar las caracteristicas de la detección wifi
 └── README.md           # Este archivo
-```
+
 
 ---
 
@@ -95,6 +95,7 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 ## 📌 Como usar
 
 > Ejecutar el archivo main.py dentro de la carpeta src. El proyecto no requiere librerias adicionales. El usuario puede alejar o acercar el sensor a las superficies proximas para que el buzzer suene mas rapido o lento. Si se apreta el boton, se creara una estimacion de en que sala del piso 0 del edificio P de la universidad puedes estar, y se reproducira un audio.
+> El diagrama de conexión se encuentra dentro de la carpeta *Docs* 
 > [Video de demostración del proyecto](https://youtu.be/gTv8buaK72Q?si=WWLMhqxakXlo8Ekm)
 
 ---

@@ -51,8 +51,8 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 ---
 
 ## 🗂️ Estructura del repositorio
----
 
+```
 /PROY-2025-GRUPO 4
 |
 ├── Docs/               # Documentos referentes (Carta gant, presentaciones hechas, etc...)
@@ -60,7 +60,7 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 ├── tests/              # Casos de prueba
 ├── Utils/              # Codigo de utilidad para procesar las caracteristicas de la detección wifi
 └── README.md           # Este archivo
-
+```
 
 ---
 

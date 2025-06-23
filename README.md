@@ -54,8 +54,7 @@ Repositorio del **grupo 4** para el proyecto del ramo *Proyecto Inicial* – 202
 
 ---
 
-/PROY-2025-GRUPOX
-│
+PROY-2025-GRUPO 4
 ├── Docs/               # Documentos referentes (Carta gant, presentaciones hechas, etc...)
 ├── src/                # Código fuente del proyecto (Incluye archivos de audio en su respectiva carpeta dentro)
 ├── tests/              # Casos de prueba
